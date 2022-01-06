@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antunesGustavo
+- 👋 Hi, I’m Gustavo de Oliveira Antunes
 - 👀 I’m interested in Programação
 - 🌱 I’m currently learning Desenvolvimento de Sistemas (2/3)
 - 💞️ I’m looking to collaborate on À disposição da empresa
