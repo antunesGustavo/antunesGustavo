@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antunesGustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesGustavo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=antunesGustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesGustavo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -22,4 +22,8 @@
   <a href="https://instagram.com/gusztaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://api.whatsapp.com/send?phone=5511999790532" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavooliver.antunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+  ![Snake animation](https://github.com/rafaballerini/antunesGustavo/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
