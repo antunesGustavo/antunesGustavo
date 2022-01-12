@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo de Oliveira Antunes   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
+ # Olá! Eu sou o Gustavo de Oliveira Antunes   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 •📚 Estou cursando Desenvolvimento de Sistemas <br>
 •👨‍💻 Gosto de ser Back-end <br>
 •📊 Amo muito Banco de Dados 
@@ -21,7 +21,7 @@
 </div>
 
   ##
-### 📱 Contatos
+ ### 📱 Contatos
   <div>
   <a href="https://instagram.com/gusztaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://api.whatsapp.com/send?phone=5511999790532" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
