@@ -1,7 +1,7 @@
  # Olá! Eu sou o Gustavo de Oliveira Antunes   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
-•📚 Estou cursando Desenvolvimento de Sistemas <br>
-•👨‍💻 Sou Back-end <br>
-•💻 Estou estudando Front-end com o propósito de se tornar Full-Stack <br>
+•📚 Técnico em Desenvolvimento de Sistemas <br>
+•👨‍💻 Back-end <br>
+•💻 Estudando Front-end com o propósito de se tornar Full-Stack <br>
 •📊 Amo muito Banco de Dados 
 
 <div align="center">
